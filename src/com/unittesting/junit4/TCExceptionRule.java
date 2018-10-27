@@ -1,4 +1,4 @@
-package org.unittesting.junit4;
+package com.unittesting.junit4;
 
 import java.util.ArrayList;
 import java.util.List;
